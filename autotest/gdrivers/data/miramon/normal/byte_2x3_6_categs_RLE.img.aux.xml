@@ -1,8 +1,0 @@
-<PAMDataset>
-  <PAMRasterBand band="1">
-    <Description>byte_2x3_6_categs_RLE</Description>
-    <Metadata>
-      <MDI key="DESCRIPTION">Al·leluia 1</MDI>
-    </Metadata>
-  </PAMRasterBand>
-</PAMDataset>
